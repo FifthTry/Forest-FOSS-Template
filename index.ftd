@@ -1,3 +1,6 @@
+-- import: ft
+-- import: config
+
 -- ft.page:
 
 -- ft.hero: Build optimized websites quickly, focus on your content
@@ -8,7 +11,7 @@ url: /install/
 background-color: #25c19f
 color: white
 
---- ft.action-button: Playground
+/--- ft.action-button: Playground
 url: https://play.fifthtry.com/
 background-color: #54c7ec
 color: white
